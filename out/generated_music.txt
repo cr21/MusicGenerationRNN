@@ -1,0 +1,41 @@
+cri||kb Mois fb wbpll lal 11/
+%%MIDI bassvol 111
+P:A
+{:c/2d/2{"Am"e2A A^GA{"C"GEE E^GA{"Em"B2A E3{"C"BGE CCE{
+"G"DGB BGB{"Am"cBc DFA{"D7"dfa gfd{"G"BcB A2:{
+P:B
+B{"D7"def g2a{"G"b^ag g2g{"Em"def "D7"g2d{
+"G"g2g gaG{"G"gab "D7"aga{"G"bge "D7"dBG{"G"gdB "D"AGF{"G"G3 -G2{{
+
+
+X: 251
+T:Red Chery
+% Nottingham Music Database
+Y:AABBCC
+S:Whitby 1989, via EF
+M:6/8
+K:D
+P:A
+{:d/2e/2{"D"f2e d2c{"D"d2B A2d{"A"e2d "F#m"c2c{"Bm"BAB "F#m"AGF{"Em"EGF "A7"EFG{
+"D"A3 "A7"ecA{"D"dfd "A7"ede{"D"f2d AFA{"G"BA2 "A7"B2c{"D"d3 d2d{"Em"e2d "A7"B2c{\"D"d2d "A7"d2c{"D"d2A F2A{
+"G"Bcd f2e{"D"Adf "A"edc{"G"Bcd "A7"ecA{"G"BG2 -"A7"A2G{\
+"D"FGA "Em"BAG{"A7"FED "A7"EDE{"D"F2F DEF{"G"G3 -G2:{
+
+
+X: 200
+T:Mccle Mackicg
+% Nottingham Music Database
+S:NPTB, via EF
+Y:ABC
+M:6/8
+K:G
+P:A
+{:d/2c/2{"G"B2G dGB{"D7"A2F DED{"G"B2G "D7"AGF{"G"G2B "Em"d2d{
+"A7"c2B A2G{"D7"ABA D3{"G"G2G "D7"AGF{"G"G3 -G2:{
+P:B
+{:d/2c/2{"G"def gfe{"G"d3 B3{"Am"c2c a2g{"D7"fef f2e{"D7"d3 d2d{\
+"C"e2f g3/2g/2=g/2{
+"F"f3 "A7"e2c{"Dm"ded "G7"e2d{"C"e2e "Am"edc{"D7"dBG "G"G2:{
+
+
+X: 22
